@@ -2,4 +2,4 @@
 
 This project was created from loacal system.
 
-created by Yash vikas jagtap.
+Created By Yash Vikas Jagtap.
